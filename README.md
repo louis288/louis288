@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Xinliang Wang. I am currently a Ph.D. student at the University of Chinese Academy of Sciences, pursuing my research in Operations Research and Cybernetics.
+
 <!--
 **louis288/louis288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
